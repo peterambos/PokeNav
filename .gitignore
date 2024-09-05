@@ -1,0 +1,9 @@
+pyvenv.cfg
+backend/db.sqlite3
+backend/backend/.env
+backend/requirements.in
+bin
+include
+lib
+lib64
+/requirements.txt
