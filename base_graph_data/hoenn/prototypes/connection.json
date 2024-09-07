@@ -1,0 +1,5 @@
+{
+    "type": "static OR random OR warp",
+    "nodes": ["l1", "l2"],
+    "weight": 1
+}

@@ -1,0 +1,9 @@
+{
+    "id": "HOE-L-0000 (incrementing numbers)",
+    "MapId": "String",
+    "name": "String",
+    "games": [
+        "EMRL",
+        "RUSA" 
+    ]
+}
