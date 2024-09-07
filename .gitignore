@@ -1,7 +1,11 @@
 pyvenv.cfg
 backend/db.sqlite3
 backend/backend/.env
-backend/requirements.in
-/requirements.txt
+bin
+include
+lib
+lib64
+*.pyc
+__pycache__
 .vscode
-PokeNav-frontend/.gitignore
+base_graph_data/hoenn/old_data_and_methods
